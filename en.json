@@ -60,5 +60,14 @@
   "post_verb": "Post",
   "leave": "Leave",
   "sure_you_want_to_leave_conversation": "Are you sure you want to leave this conversation?",
-  "you_did_not_have_any_conversations": "You did not have any conversations yet."
+  "you_did_not_have_any_conversations": "You did not have any conversations yet.",
+  "terms_and_rules": "Terms and rules",
+  "privacy_policy": "Privacy policy",
+  "account": "Account",
+  "help": "Help",
+  "log_out": "Log out",
+  "sure_you_want_to_log_out": "Are you sure that you want to log out?",
+  "hi_x": "Hi, %{name}",
+  "x_replies": "%{count} replies",
+  "x_views": "%{count} views"
 }
