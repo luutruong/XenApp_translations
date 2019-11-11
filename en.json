@@ -71,5 +71,6 @@
   "x_replies": "%{count} replies",
   "x_views": "%{count} views",
   "trending": "Trending",
-  "new_threads": "New threads"
+  "new_threads": "New threads",
+  "recent_threads": "Recent threads"
 }
