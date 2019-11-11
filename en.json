@@ -69,5 +69,7 @@
   "sure_you_want_to_log_out": "Are you sure that you want to log out?",
   "hi_x": "Hi, %{name}",
   "x_replies": "%{count} replies",
-  "x_views": "%{count} views"
+  "x_views": "%{count} views",
+  "trending": "Trending",
+  "new_threads": "New threads"
 }
