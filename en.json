@@ -25,7 +25,7 @@
   "email": "Email",
   "sign_up": "Sign Up",
   "register_later": "Register later",
-  "security_code": "Security Code",
+  "security_code": "Security code",
   "continue": "Continue",
   "watched_threads": "Watched threads",
   "update_your_status": "Update your status...",
@@ -72,5 +72,7 @@
   "x_views": "%{count} views",
   "trending": "Trending",
   "new_threads": "New threads",
-  "recent_threads": "Recent threads"
+  "recent_threads": "Recent threads",
+  "enter_your_code": "Enter your code",
+  "enter_code_from_your_authentication_app": "Enter the 6-digit security code from your authentication app."
 }
