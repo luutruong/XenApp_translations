@@ -17,14 +17,11 @@
   "you_are_not_ignoring_any_members": "You are not currently ignoring any members.",
   "password": "Password",
   "username_or_email": "Username or Email",
-  "log_in_later": "Log in later",
-  "or_register": "Or Register",
   "you_did_not_have_any_notifications": "You did not have any notifications yet.",
   "i_agree_terms": "By clicking below to Sign Up, you're agreeing to our terms of service.",
   "username": "Username",
   "email": "Email",
   "sign_up": "Sign Up",
-  "register_later": "Register later",
   "security_code": "Security code",
   "continue": "Continue",
   "watched_threads": "Watched threads",
@@ -74,5 +71,8 @@
   "new_threads": "New threads",
   "recent_threads": "Recent threads",
   "enter_your_code": "Enter your code",
-  "enter_code_from_your_authentication_app": "Enter the 6-digit security code from your authentication app."
+  "enter_code_from_your_authentication_app": "Enter the 6-digit security code from your authentication app.",
+  "this_is_name_that_will_be_shown_with_your_messages": "This is the name that will be shown with your messages. You may use any name you wish. Once set, this cannot be changed.",
+  "register": "Register",
+  "register_new_account": "Register new account"
 }
