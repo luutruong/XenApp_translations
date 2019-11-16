@@ -74,5 +74,6 @@
   "enter_code_from_your_authentication_app": "Enter the 6-digit security code from your authentication app.",
   "this_is_name_that_will_be_shown_with_your_messages": "This is the name that will be shown with your messages. You may use any name you wish. Once set, this cannot be changed.",
   "register": "Register",
-  "register_new_account": "Register new account"
+  "register_new_account": "Register new account",
+  "posted_by_x": "Posted by %{name}"
 }
