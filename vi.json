@@ -73,7 +73,6 @@
   "enter_your_code": "Nhập mã xác thực",
   "enter_code_from_your_authentication_app": "Nhập mã xác thực 6 chữ số được tạo từ ứng dụng xác thực của bạn.",
   "this_is_name_that_will_be_shown_with_your_messages": "Đây là tên sẽ xuất hiện trong các bài viết của bạn. Bạn có thể sử dụng tên thật hoặc biệt danh. Bạn không thể thay đổi tên này về sau.",
-  "register": "Đăng ký",
   "register_new_account": "Đăng ký tài khoản mới",
   "posted_by_x": "Được đăng bởi %{name}",
   "app_version": "Phiên bản ứng dụng",
