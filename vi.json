@@ -76,5 +76,7 @@
   "register": "Đăng ký",
   "register_new_account": "Đăng ký tài khoản mới",
   "posted_by_x": "Được đăng bởi %{name}",
-  "app_version": "Phiên bản ứng dụng"
+  "app_version": "Phiên bản ứng dụng",
+  "you_must_log_in_to_perform_this_action": "Bạn cần đăng nhập để thực hiện hành động này.",
+  "conversation_participants": "Thành viên tham gia"
 }
