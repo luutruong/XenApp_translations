@@ -75,5 +75,6 @@
   "this_is_name_that_will_be_shown_with_your_messages": "This is the name that will be shown with your messages. You may use any name you wish. Once set, this cannot be changed.",
   "register": "Register",
   "register_new_account": "Register new account",
-  "posted_by_x": "Posted by %{name}"
+  "posted_by_x": "Posted by %{name}",
+  "app_version": "App version"
 }
