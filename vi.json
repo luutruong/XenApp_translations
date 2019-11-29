@@ -77,5 +77,6 @@
   "posted_by_x": "Được đăng bởi %{name}",
   "app_version": "Phiên bản ứng dụng",
   "you_must_log_in_to_perform_this_action": "Bạn cần đăng nhập để thực hiện hành động này.",
-  "conversation_participants": "Thành viên tham gia"
+  "conversation_participants": "Thành viên tham gia",
+  "open_in_browser": "Mở bằng trình duyệt"
 }

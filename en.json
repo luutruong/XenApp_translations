@@ -77,5 +77,6 @@
   "posted_by_x": "Posted by %{name}",
   "app_version": "App version",
   "you_must_log_in_to_perform_this_action": "You must log-in to perform this action.",
-  "conversation_participants": "Participants"
+  "conversation_participants": "Participants",
+  "open_in_browser": "Open in browser"
 }
