@@ -78,5 +78,10 @@
   "app_version": "Phiên bản ứng dụng",
   "you_must_log_in_to_perform_this_action": "Bạn cần đăng nhập để thực hiện hành động này.",
   "conversation_participants": "Thành viên tham gia",
-  "open_in_browser": "Mở bằng trình duyệt"
+  "open_in_browser": "Mở bằng trình duyệt",
+  "attach_files": "Attach files",
+  "post_thread_in_forum": "Đăng bài viết trong...",
+  "forum": "Diễn đàn",
+  "thread_prefix": "Tiền tố",
+  "lock_thread": "Khoá chủ đề"
 }
