@@ -77,5 +77,13 @@
   "posted_by_x": "Opublikowane przez %{name}",
   "app_version": "Wersja",
   "you_must_log_in_to_perform_this_action": "Musisz się zalogować, żeby to zrobić.",
-  "conversation_participants": "Uczestnicy"
+  "conversation_participants": "Uczestnicy",
+  "leave_conversation": "Opuść konwersację",
+  "open_in_browser": "Otwórz w przeglądarce",
+  "post_thread_in_forum": "Stwórz wątek w forum...",
+  "forum": "Forum",
+  "thread_prefix": "Prefiks",
+  "lock_thread": "Zablokuj temat",
+  "choose_a_prefix": "Wybierz prefiks",
+  "sticky_threads": "Przyklejone tematy"  
 }
