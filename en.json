@@ -83,5 +83,6 @@
   "forum": "Forum",
   "thread_prefix": "Prefix",
   "lock_thread": "Lock thread",
-  "choose_a_prefix": "Choose a prefix"
+  "choose_a_prefix": "Choose a prefix",
+  "sticky_threads": "Sticky threads"
 }
