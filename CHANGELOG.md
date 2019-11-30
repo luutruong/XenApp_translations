@@ -5,6 +5,7 @@
     * `thread_prefix`
     * `lock_thread`
     * `choose_a_prefix`
+    * `sticky_threads`
 ### 2019-11-29
 * Added new language key
     * `open_in_browser` (en.json, vi.json)
