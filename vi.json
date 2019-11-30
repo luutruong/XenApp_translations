@@ -83,5 +83,6 @@
   "post_thread_in_forum": "Đăng bài viết trong...",
   "forum": "Diễn đàn",
   "thread_prefix": "Tiền tố",
-  "lock_thread": "Khoá chủ đề"
+  "lock_thread": "Khoá chủ đề",
+  "choose_a_prefix": "Chọn tiền tố"
 }

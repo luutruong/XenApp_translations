@@ -83,5 +83,6 @@
   "post_thread_in_forum": "Post thread in forum...",
   "forum": "Forum",
   "thread_prefix": "Prefix",
-  "lock_thread": "Lock thread"
+  "lock_thread": "Lock thread",
+  "choose_a_prefix": "Choose a prefix"
 }
