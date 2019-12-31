@@ -1,3 +1,9 @@
+### 2019-12-31
+
+New language keys:
+* `user_search`
+* `user_name`
+
 ### 2019-11-30
 * Added new language keys
     * `post_thread_in_forum`
