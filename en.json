@@ -86,5 +86,11 @@
   "choose_a_prefix": "Choose a prefix",
   "sticky_threads": "Sticky threads",
   "user_search": "User search",
-  "user_name": "User name"
+  "user_name": "User name",
+  "report_user": "Report user",
+  "follow": "Follow",
+  "your_avatar_has_been_updated": "Your avatar has been updated",
+  "your_cover_has_been_updated": "Your cover has been updated",
+  "choose_from_gallery": "Choose from gallery",
+  "take_a_photo": "Take a photo"
 }
