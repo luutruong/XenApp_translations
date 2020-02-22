@@ -12,11 +12,6 @@ Renamed:
 * you_did_not_have_any_conversations => you_do_not_have_any_conversations
 * you_did_not_have_any_notifications => you_do_not_have_any_notifications
 
-
-New language keys:
-* `user_search`
-* `user_name`
-
 ### 2019-11-30
 * Added new language keys
     * `post_thread_in_forum`
