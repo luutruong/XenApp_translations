@@ -1,4 +1,17 @@
-### 2019-12-31
+### 2020-02-22
+New:
+* report_user
+* follow
+* your_avatar_has_been_updated
+* your_cover_has_been_updated
+* choose_from_gallery
+* take_a_photo
+* you_are_replying
+
+Renamed:
+* you_did_not_have_any_conversations => you_do_not_have_any_conversations
+* you_did_not_have_any_notifications => you_do_not_have_any_notifications
+
 
 New language keys:
 * `user_search`
