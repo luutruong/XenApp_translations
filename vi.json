@@ -94,5 +94,6 @@
   "choose_from_gallery": "Chọn từ bộ sưu tập",
   "take_a_photo": "Chụp ảnh",
   "you_are_replying": "Bạn đang trả lời",
-  "message": "Tin nhắn"
+  "message": "Tin nhắn",
+  "x_said": "%{name} nói:"
 }

@@ -94,5 +94,6 @@
   "choose_from_gallery": "Choose from gallery",
   "take_a_photo": "Take a photo",
   "you_are_replying": "You are replying",
-  "message": "Message"
+  "message": "Message",
+  "x_said": "%{name} said:"
 }
