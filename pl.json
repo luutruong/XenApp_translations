@@ -65,11 +65,11 @@
   "log_out": "Wyloguj",
   "sure_you_want_to_log_out": "Na pewno chcesz się wylogować?",
   "hi_x": "Hej, %{name}",
-  "x_replies": "Odpowiedzi: %{count}",
-  "x_views": "Odwiedzin: %{count}",
+  "x_replies": "Wpisów: %{count}",
+  "x_views": "Wizyt: %{count}",
   "trending": "Popularne",
   "new_threads": "Nowe tematy",
-  "recent_threads": "Ostatnie tematy",
+  "recent_threads": "Najnowsze",
   "enter_your_code": "Wprowadź swój kod",
   "enter_code_from_your_authentication_app": "Wprowadź 6 cyfrowy kod bezpieczeństwa z Twojej aplikacji do bezpiecznego logowania.",
   "this_is_name_that_will_be_shown_with_your_messages": "To jest podpis pokazywany razem z Twoimi wiadomościami. Możesz użyć dowolnej nazwy, ale nie można jej już później zmienić.",
@@ -93,5 +93,6 @@
   "your_cover_has_been_updated": "Twoje zdjęcie zostało zmienione",
   "choose_from_gallery": "Wybierz z galerii",
   "take_a_photo": "Zrób zdjęcie",
-  "you_are_replying": "Odpowiadasz"
+  "you_are_replying": "Odpowiadasz",
+  "message": "Wiadomość"
 }
