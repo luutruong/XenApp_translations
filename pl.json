@@ -94,5 +94,6 @@
   "choose_from_gallery": "Wybierz z galerii",
   "take_a_photo": "Zrób zdjęcie",
   "you_are_replying": "Odpowiadasz",
-  "message": "Wiadomość"
+  "message": "Wiadomość",
+  "x_said": "%{name} pisze:"
 }
