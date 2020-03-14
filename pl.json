@@ -95,5 +95,6 @@
   "take_a_photo": "Zrób zdjęcie",
   "you_are_replying": "Odpowiadasz",
   "message": "Wiadomość",
-  "x_said": "%{name} pisze:"
+  "x_said": "%{name} pisze:",
+  "go_to_page": "Idź do strony"
 }
