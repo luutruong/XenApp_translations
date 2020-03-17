@@ -96,5 +96,6 @@
   "you_are_replying": "You are replying",
   "message": "Message",
   "x_said": "%{name} said:",
-  "go_to_page": "Go to page"
+  "go_to_page": "Go to page",
+  "dark_theme": "Dark theme"
 }
