@@ -98,5 +98,6 @@
   "go_to_page": "Go to page",
   "dark_theme": "Dark theme",
   "update_avatar": "Update avatar",
-  "update_cover": "Update cover"
+  "update_cover": "Update cover",
+  "delete": "Delete"
 }
