@@ -99,5 +99,8 @@
   "dark_theme": "Dark theme",
   "update_avatar": "Update avatar",
   "update_cover": "Update cover",
-  "delete": "Delete"
+  "delete": "Delete",
+  "profile_posts": "Profile posts",
+  "threads": "Threads",
+  "about": "About"
 }

@@ -99,5 +99,8 @@
   "dark_theme": "Chủ đề tối",
   "update_avatar": "Cập nhật ảnh đại diện",
   "update_cover": "Cập nhật ảnh bìa",
-  "delete": "Xoá"
+  "delete": "Xoá",
+  "profile_posts": "Tường",
+  "threads": "Bài viết",
+  "about": "Thông tin"
 }

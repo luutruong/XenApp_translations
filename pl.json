@@ -98,5 +98,8 @@
   "go_to_page": "Idź do strony",
   "update_avatar": "Zaktualizuj awatar",
   "update_cover": "Zaktualizuj okładkę",
-  "delete": "Usunąć"
+  "delete": "Usunąć",
+  "profile_posts": "Posty profilowe",
+  "threads": "Wątki",
+  "about": "About"
 }
