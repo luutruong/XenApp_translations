@@ -103,5 +103,5 @@
   "profile_posts": "Tường",
   "threads": "Bài viết",
   "about": "Thông tin",
-  "x_votes_y_percentage": "Bỏ phiếu: {total} ({percent}%)"
+  "x_votes_y_percentage": "Bỏ phiếu: %{total} (%{percent}%)"
 }

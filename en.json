@@ -103,5 +103,5 @@
   "profile_posts": "Profile posts",
   "threads": "Threads",
   "about": "About",
-  "x_votes_y_percentage": "Votes: {total} ({percent}%)"
+  "x_votes_y_percentage": "Votes: %{total} (%{percent}%)"
 }
