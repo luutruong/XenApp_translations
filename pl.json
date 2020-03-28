@@ -103,5 +103,8 @@
    "profile_posts": "Posty profilowe",
    "threads": "Wątki",
    "about": "O",
-   "x_votes_y_percentage": "Votes: %{total} (%{percent}%)"
+   "x_votes_y_percentage": "Votes: %{total} (%{percent}%)",
+   "this_poll_will_close": "This poll will close: %{date}",
+   "change_vote": "Change vote",
+   "cast_vote": "Cast vote"
  }
