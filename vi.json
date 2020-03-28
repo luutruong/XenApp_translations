@@ -102,5 +102,6 @@
   "delete": "Xoá",
   "profile_posts": "Tường",
   "threads": "Bài viết",
-  "about": "Thông tin"
+  "about": "Thông tin",
+  "x_votes_y_percentage": "Bỏ phiếu: {total} ({percent}%)"
 }

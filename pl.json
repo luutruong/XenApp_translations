@@ -102,5 +102,6 @@
    "delete": "Usuń",
    "profile_posts": "Posty profilowe",
    "threads": "Wątki",
-   "about": "O"
+   "about": "O",
+   "x_votes_y_percentage": "Votes: {total} ({percent}%)"
  }
