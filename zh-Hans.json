@@ -100,5 +100,6 @@
   "this_poll_will_close": "该投票将关闭：{{date}}",
   "change_vote": "更改投票",
   "cast_vote": "投票",
-  "back": "Back"
+  "back": "Back",
+  "language": "Language"
 }

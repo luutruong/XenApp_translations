@@ -100,5 +100,6 @@
   "this_poll_will_close": "Cuộc thăm dò ý kiến này kết thúc: {{date}}",
   "change_vote": "Thay đổi phiếu bầu",
   "cast_vote": "Bỏ phiếu",
-  "back": "Trở về"
+  "back": "Trở về",
+  "language": "Ngôn ngữ"
 }

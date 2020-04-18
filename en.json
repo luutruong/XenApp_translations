@@ -100,5 +100,6 @@
   "this_poll_will_close": "This poll will close: {{date}}",
   "change_vote": "Change vote",
   "cast_vote": "Cast vote",
-  "back": "Back"
+  "back": "Back",
+  "language": "Language"
 }
