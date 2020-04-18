@@ -101,5 +101,6 @@
   "change_vote": "更改投票",
   "cast_vote": "投票",
   "back": "Back",
-  "language": "Language"
+  "language": "Language",
+  "setting_language": "Setting language..."
 }
