@@ -96,11 +96,11 @@
    "profile_posts": "Posty profilowe",
    "threads": "Wątki",
    "about": "O",
-   "x_votes_y_percentage": "Votes: {{total}} ({{percent}}%)",
-   "this_poll_will_close": "This poll will close: {{date}}",
-   "change_vote": "Change vote",
-   "cast_vote": "Cast vote",
-   "back": "Back",
-   "language": "Language",
-   "setting_language": "Setting language..."
+   "x_votes_y_percentage": "Głosów: {{total}} ({{percent}}%)",
+   "this_poll_will_close": "Zamknięcie ankiety: {{date}}",
+   "change_vote": "Zmień głos",
+   "cast_vote": "Zagłosuj",
+   "back": "Wróć",
+   "language": "Język",
+   "setting_language": "Ustawiam język..."
  }
