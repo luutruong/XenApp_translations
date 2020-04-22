@@ -102,5 +102,6 @@
   "cast_vote": "Cast vote",
   "back": "Back",
   "language": "Language",
-  "setting_language": "Setting language..."
+  "setting_language": "Setting language...",
+  "all": "All"
 }
