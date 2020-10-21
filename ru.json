@@ -103,5 +103,6 @@
   "language": "Язык",
   "setting_language": "Настройка языка...",
   "all": "Все",
-  "prefix": "Prefix"
+  "prefix": "Prefix",
+  "title": "Title"
 }
