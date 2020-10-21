@@ -102,5 +102,6 @@
   "back": "Назад",
   "language": "Язык",
   "setting_language": "Настройка языка...",
-  "all": "Все"
+  "all": "Все",
+  "prefix": "Prefix"
 }

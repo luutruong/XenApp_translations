@@ -102,5 +102,6 @@
   "back": "返回",
   "language": "语言",
   "setting_language": "设定语言...",
-  "all": "所有"
+  "all": "所有",
+  "prefix": "Prefix"
 }
