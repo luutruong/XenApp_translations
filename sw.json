@@ -102,6 +102,7 @@
     "back": "Nyuma",
     "language": "Lugha",
     "setting_language": "Mpangilio wa lugha...",
-    "all": "Zote"
+    "all": "Zote",
+    "tags_placeholder": "Tags (eg: foo, bar, cat, dog)"
   }
   

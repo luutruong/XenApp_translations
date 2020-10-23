@@ -102,5 +102,6 @@
 	"back": "Retour",
 	"language": "Langue",
 	"setting_language": "Paramétrage de la langue...",
-	"all": "Tout"
+	"all": "Tout",
+	"tags_placeholder": "Tags (eg: foo, bar, cat, dog)"
 }
