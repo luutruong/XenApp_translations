@@ -103,5 +103,6 @@
   "language": "语言",
   "setting_language": "设定语言...",
   "all": "所有",
-  "tags_placeholder": "Tags (eg: foo, bar, cat, dog)"
+  "tags_placeholder": "Tags (eg: foo, bar, cat, dog)",
+  "saving": "Saving..."
 }

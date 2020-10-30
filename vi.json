@@ -103,5 +103,6 @@
   "language": "Ngôn ngữ",
   "setting_language": "Cài đặt ngôn ngữ...",
   "all": "Tất cả",
-  "tags_placeholder": "Tags (eg: foo, bar, cat, dog)"
+  "tags_placeholder": "Tags (eg: foo, bar, cat, dog)",
+  "saving": "Đang lưu..."
 }

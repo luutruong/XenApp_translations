@@ -103,5 +103,6 @@
   "language": "שפה",
   "setting_language": "מגדיר שפה...",
   "all": "את כל",
-  "tags_placeholder": "Tags (eg: foo, bar, cat, dog)"
+  "tags_placeholder": "Tags (eg: foo, bar, cat, dog)",
+  "saving": "Saving..."
 }
