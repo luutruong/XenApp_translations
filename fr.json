@@ -103,5 +103,6 @@
 	"language": "Langue",
 	"setting_language": "Paramétrage de la langue...",
 	"all": "Tout",
-	"tags_placeholder": "Tags (eg: foo, bar, cat, dog)"
+	"tags_placeholder": "Tags (eg: foo, bar, cat, dog)",
+	"saving": "Saving..."
 }
