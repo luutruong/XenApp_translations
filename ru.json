@@ -59,7 +59,7 @@
   "hi_x": "Привет, {{name}}",
   "x_replies": "{{count}} ответов",
   "x_views": "{{count}} просмотров",
-  "trending": "В тренде",
+  "trending": "Популярное",
   "new_threads": "Новые темы",
   "recent_threads": "Последние темы",
   "enter_your_code": "Введите Ваш код",
@@ -103,8 +103,8 @@
   "language": "Язык",
   "setting_language": "Настройка языка...",
   "all": "Все",
-  "tags_placeholder": "Tags (eg: foo, bar, cat, dog)",
-  "saving": "Saving...",
-  "posts": "Posts",
-  "users": "Users"
+  "tags_placeholder": "Теги (прим: linux, win, котики, роботы)",
+  "saving": "Сохранение...",
+  "posts": "Сообщения",
+  "users": "Пользователи"
 }
