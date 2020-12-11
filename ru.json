@@ -107,8 +107,8 @@
   "saving": "Сохранение...",
   "posts": "Сообщения",
   "users": "Пользователи",
-  "dark_mode": "Dark Mode",
-  "dark_mode_option_on": "On",
-  "dark_mode_option_off": "Off",
-  "dark_mode_option_system": "System"
+  "dark_mode": "Тёмная тема",
+  "dark_mode_option_on": "Вкл",
+  "dark_mode_option_off": "Выкл",
+  "dark_mode_option_system": "Использовать системную тему"
 }
