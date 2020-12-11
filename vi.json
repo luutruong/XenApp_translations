@@ -106,5 +106,9 @@
   "tags_placeholder": "Tags (eg: foo, bar, cat, dog)",
   "saving": "Đang lưu...",
   "posts": "Bài viết",
-  "users": "Thành viên"
+  "users": "Thành viên",
+  "dark_mode": "Chế độ bóng đêm",
+  "dark_mode_option_on": "Bật",
+  "dark_mode_option_off": "Tắt",
+  "dark_mode_option_system": "Hệ thống"
 }
