@@ -106,5 +106,9 @@
   "tags_placeholder": "Теги (прим: linux, win, котики, роботы)",
   "saving": "Сохранение...",
   "posts": "Сообщения",
-  "users": "Пользователи"
+  "users": "Пользователи",
+  "dark_mode": "Dark Mode",
+  "dark_mode_option_on": "On",
+  "dark_mode_option_off": "Off",
+  "dark_mode_option_system": "System"
 }
