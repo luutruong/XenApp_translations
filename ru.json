@@ -88,7 +88,6 @@
   "message": "Сообщение",
   "x_said": "{{name}} сказал(а):",
   "go_to_page": "Перейти к странице",
-  "dark_theme": "Тёмная тема",
   "update_avatar": "Обновить аватар",
   "update_cover": "Обновить обложку",
   "delete": "Удалить",
@@ -107,8 +106,8 @@
   "saving": "Сохранение...",
   "posts": "Сообщения",
   "users": "Пользователи",
-  "dark_mode": "Dark Mode",
-  "dark_mode_option_on": "On",
-  "dark_mode_option_off": "Off",
-  "dark_mode_option_system": "System"
+  "dark_mode": "Тёмная тема",
+  "dark_mode_option_on": "Вкл",
+  "dark_mode_option_off": "Выкл",
+  "dark_mode_option_system": "Использовать системную тему"
 }

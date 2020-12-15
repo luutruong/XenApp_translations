@@ -88,7 +88,6 @@
   "message": "訊息",
   "x_said": "{{name}}說：",
   "go_to_page": "跳到頁面",
-  "dark_theme": "黑暗主題",
   "update_avatar": "更新頭像",
   "update_cover": "更新封面",
   "delete": "刪除",
@@ -103,12 +102,12 @@
   "language": "語言",
   "setting_language": "設定語言...",
   "all": "所有",
-  "tags_placeholder": "Tags (eg: foo, bar, cat, dog)",
-  "saving": "Saving...",
-  "posts": "Posts",
-  "users": "Users",
-  "dark_mode": "Dark Mode",
-  "dark_mode_option_on": "On",
-  "dark_mode_option_off": "Off",
-  "dark_mode_option_system": "System"
+  "tags_placeholder": "標籤(例:變量、酒吧、貓、狗)",
+  "saving": "儲存中...",
+  "posts": "帖子",
+  "users": "使用者",
+  "dark_mode": "深色模式",
+  "dark_mode_option_on": "開",
+  "dark_mode_option_off": "關",
+  "dark_mode_option_system": "系統"
 }
