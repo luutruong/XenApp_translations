@@ -111,5 +111,6 @@
   "dark_mode_option_off": "Off",
   "dark_mode_option_system": "System",
   "starred_conversations": "Starred conversations",
-  "unread_conversations": "Unread conversations"
+  "unread_conversations": "Unread conversations",
+  "conversations_started_by": "Started by"
 }
