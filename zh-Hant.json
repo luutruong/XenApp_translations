@@ -114,5 +114,6 @@
   "unread_conversations": "Unread conversations",
   "started_by": "Started by",
   "conversations_received_by": "Received by",
-  "apply_filter": "Apply filter"
+  "apply_filter": "Apply filter",
+  "no_conversations_matched_your_filter": "No conversations matched your filter"
 }
