@@ -110,5 +110,6 @@
   "dark_mode_option_on": "Вкл",
   "dark_mode_option_off": "Выкл",
   "dark_mode_option_system": "Использовать системную тему",
-  "starred_conversations": "Starred conversations"
+  "starred_conversations": "Starred conversations",
+  "unread_conversations": "Unread conversations"
 }

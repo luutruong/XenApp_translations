@@ -110,5 +110,6 @@
   "dark_mode_option_on": "開",
   "dark_mode_option_off": "關",
   "dark_mode_option_system": "系統",
-  "starred_conversations": "Starred conversations"
+  "starred_conversations": "Starred conversations",
+  "unread_conversations": "Unread conversations"
 }
