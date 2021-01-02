@@ -113,5 +113,6 @@
   "starred_conversations": "Starred conversations",
   "unread_conversations": "Unread conversations",
   "conversations_started_by": "Started by",
-  "conversations_received_by": "Received by"
+  "conversations_received_by": "Received by",
+  "apply_filter": "Apply filter"
 }
