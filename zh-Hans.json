@@ -109,5 +109,6 @@
   "dark_mode": "Dark Mode",
   "dark_mode_option_on": "On",
   "dark_mode_option_off": "Off",
-  "dark_mode_option_system": "System"
+  "dark_mode_option_system": "System",
+  "starred_conversations": "Starred conversations"
 }
