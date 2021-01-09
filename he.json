@@ -116,5 +116,6 @@
   "conversations_received_by": "Received by",
   "apply_filter": "Apply filter",
   "no_conversations_matched_your_filter": "No conversations matched your filter",
-  "last_updated": "Last updated"
+  "last_updated": "Last updated",
+  "last_updated_any_time": "Any time"
 }
