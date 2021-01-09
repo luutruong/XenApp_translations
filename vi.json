@@ -119,5 +119,6 @@
   "last_updated": "Last updated",
   "last_updated_any_time": "Any time",
   "last_updated_x_days": "{{days}} days",
-  "sort_by": "Sort by"
+  "sort_by": "Sort by",
+  "sort_by_last_message": "Last message"
 }
