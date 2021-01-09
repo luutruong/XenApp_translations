@@ -122,5 +122,6 @@
   "sort_by": "Sort by",
   "sort_by_last_message": "Last message",
   "sort_by_first_message": "First message",
-  "sort_by_title": "Title"
+  "sort_by_title": "Title",
+  "sort_by_replies": "Replies"
 }
