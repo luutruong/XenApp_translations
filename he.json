@@ -125,5 +125,6 @@
   "sort_by_title": "Title",
   "sort_by_replies": "Replies",
   "sort_by_views": "Views",
-  "sort_direction_descending": "Descending"
+  "sort_direction_descending": "Descending",
+  "sort_direction": "Sort direction"
 }
