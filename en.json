@@ -118,5 +118,6 @@
   "no_conversations_matched_your_filter": "No conversations matched your filter",
   "last_updated": "Last updated",
   "last_updated_any_time": "Any time",
-  "last_updated_x_days": "{{days}} days"
+  "last_updated_x_days": "{{days}} days",
+  "sort_by": "Sort by"
 }
