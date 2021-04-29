@@ -128,5 +128,6 @@
   "sort_direction_descending": "Giảm dần",
   "sort_direction": "Hướng sắp xếp",
   "sort_direction_ascending": "Tăng dần",
-  "notifications": "Thông báo"
+  "notifications": "Thông báo",
+  "no_results": "Không có kết quả"
 }

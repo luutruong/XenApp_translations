@@ -128,5 +128,6 @@
   "sort_direction_descending": "Descending",
   "sort_direction": "Sort direction",
   "sort_direction_ascending": "Ascending",
-  "notifications": "Notifications"
+  "notifications": "Notifications",
+  "no_results": "No results"
 }

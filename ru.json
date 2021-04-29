@@ -128,5 +128,6 @@
   "sort_direction_descending": "По убыванию",
   "sort_direction": "Направление сортировки",
   "sort_direction_ascending": "По возрастанию",
-  "notifications": "Notifications"
+  "notifications": "Notifications",
+  "no_results": "No results"
 }

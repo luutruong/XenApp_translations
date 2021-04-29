@@ -128,5 +128,6 @@
   "sort_direction_descending": "降冪排序",
   "sort_direction": "排序方向",
   "sort_direction_ascending": "升冪排序",
-  "notifications": "Notifications"
+  "notifications": "Notifications",
+  "no_results": "No results"
 }
