@@ -129,5 +129,6 @@
   "sort_direction": "Hướng sắp xếp",
   "sort_direction_ascending": "Tăng dần",
   "notifications": "Thông báo",
-  "no_results": "Không có kết quả"
+  "no_results": "Không có kết quả",
+  "are_you_sure_you_want_to_discard_changes": "Bạn có chắc chắn muốn huỷ bỏ các thay đổi?"
 }
