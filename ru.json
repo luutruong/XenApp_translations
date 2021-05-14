@@ -128,8 +128,8 @@
   "sort_direction_descending": "По убыванию",
   "sort_direction": "Направление сортировки",
   "sort_direction_ascending": "По возрастанию",
-  "notifications": "Notifications",
-  "no_results": "No results",
-  "are_you_sure_you_want_to_discard_changes": "Are you sure you want to discard changes?",
-  "searching": "Searching..."
+  "notifications": "Уведомления",
+  "no_results": "Результатов нет",
+  "are_you_sure_you_want_to_discard_changes": "Вы уверены, что хотите отменить изменения?",
+  "searching": "Поиск..."
 }
