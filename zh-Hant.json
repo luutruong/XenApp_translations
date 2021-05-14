@@ -127,5 +127,9 @@
   "sort_by_views": "瀏覽",
   "sort_direction_descending": "降冪排序",
   "sort_direction": "排序方向",
-  "sort_direction_ascending": "升冪排序"
+  "sort_direction_ascending": "升冪排序",
+  "notifications": "Notifications",
+  "no_results": "No results",
+  "are_you_sure_you_want_to_discard_changes": "Are you sure you want to discard changes?",
+  "searching": "Searching..."
 }
