@@ -131,5 +131,7 @@
   "notifications": "Thông báo",
   "no_results": "Không có kết quả",
   "are_you_sure_you_want_to_discard_changes": "Bạn có chắc chắn muốn huỷ bỏ các thay đổi?",
-  "searching": "Đang tìm kiếm..."
+  "searching": "Đang tìm kiếm...",
+  "upload_option_photo": "Photo",
+  "upload_option_file": "File"
 }

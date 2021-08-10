@@ -131,5 +131,7 @@
   "notifications": "Notifications",
   "no_results": "No results",
   "are_you_sure_you_want_to_discard_changes": "Are you sure you want to discard changes?",
-  "searching": "Searching..."
+  "searching": "Searching...",
+  "upload_option_photo": "Photo",
+  "upload_option_file": "File"
 }
