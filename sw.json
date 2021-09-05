@@ -133,5 +133,11 @@
   "are_you_sure_you_want_to_discard_changes": "Are you sure you want to discard changes?",
   "searching": "Searching...",
   "upload_option_photo": "Photo",
-  "upload_option_file": "File"
+  "upload_option_file": "File",
+  "tfa_email_explain": "An email has been sent to your inbox with a single-use code. Please enter that code to continue.",
+  "tfa_backup_codes_explain": "A backup code can be used when you don't have access to an alternative verification method. Once a backup code is used, it will no longer be usable. You will receive an email when you login using a backup code.",
+  "tfa_via_app": "Verification code via app",
+  "tfa_via_email_confirmation": "Email confirmation",
+  "tfa_via_backup_codes": "Backup codes",
+  "tfa_use_alternative_methods": "Use alternative methods"
 }
