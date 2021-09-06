@@ -134,10 +134,10 @@
   "searching": "Поиск...",
   "upload_option_photo": "Фото",
   "upload_option_file": "Файл",
-  "tfa_email_explain": "An email has been sent to your inbox with a single-use code. Please enter that code to continue.",
-  "tfa_backup_codes_explain": "A backup code can be used when you don't have access to an alternative verification method. Once a backup code is used, it will no longer be usable. You will receive an email when you login using a backup code.",
-  "tfa_via_app": "Verification code via app",
-  "tfa_via_email_confirmation": "Email confirmation",
-  "tfa_via_backup_codes": "Backup codes",
-  "tfa_use_alternative_methods": "Use alternative methods"
+  "tfa_email_explain": "На Ваш почтовый ящик было отправлено электронное письмо с одноразовым кодом. Пожалуйста, введите этот код, чтобы продолжить.",
+  "tfa_backup_codes_explain": "Резервный код может быть использован, если у Вас нет доступа к другим способам проверки. После того, как код будет введён, его нельзя будет использовать ещё раз. Вы получите письмо по электронной почте, с уведомлением о том, что был использован резервный код.",
+  "tfa_via_app": "Подтверждение через приложение",
+  "tfa_via_email_confirmation": "Подтверждение по электронной почте",
+  "tfa_via_backup_codes": "Резервные коды",
+  "tfa_use_alternative_methods": "Используйте альтернативные методы"
 }
