@@ -140,5 +140,6 @@
   "tfa_via_email_confirmation": "Email confirmation",
   "tfa_via_backup_codes": "Backup codes",
   "tfa_use_alternative_methods": "Use alternative methods",
-  "date_of_birth": "Ngày sinh"
+  "date_of_birth": "Ngày sinh",
+  "new_messages": "Tin nhắn mới"
 }
