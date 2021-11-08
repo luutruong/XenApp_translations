@@ -144,5 +144,7 @@
   "new_messages": "Новые сообщения",
   "reactions": "Реакции",
   "rate_us_on_store": "Оценить приложение",
-  "log_in_to_reply": "Войдите, чтобы ответить"
+  "log_in_to_reply": "Войдите, чтобы ответить",
+  "open_links_in": "Open Links in",
+  "open_links_in_app_browser": "In-app browser"
 }
