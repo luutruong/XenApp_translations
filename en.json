@@ -145,5 +145,6 @@
   "reactions": "Reactions",
   "rate_us_on_store": "Rate us on store",
   "log_in_to_reply": "Log in to reply",
-  "open_links_in": "Open Links in"
+  "open_links_in": "Open Links in",
+  "show_hidden_content_by_x": "Show hidden content by {{name}}"
 }
