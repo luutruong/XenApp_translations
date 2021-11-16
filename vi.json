@@ -146,5 +146,6 @@
   "rate_us_on_store": "Đánh giá ứng dụng",
   "log_in_to_reply": "Đăng nhập để trả lời",
   "open_links_in": "Mở liên kết",
-  "show_hidden_content_by_x": "Hiện nội dung ẩn bởi {{name}}"
+  "show_hidden_content_by_x": "Hiện nội dung ẩn bởi {{name}}",
+  "insert_photo": "Chèn ảnh"
 }
