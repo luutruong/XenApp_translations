@@ -149,5 +149,6 @@
   "show_hidden_content_by_x": "Hiện nội dung ẩn bởi {{name}}",
   "insert_photo": "Chèn ảnh",
   "view_more_posts": "Xem thêm bình luận",
-  "expanded_editor": "Trình soạn thảo mở rộng"
+  "expanded_editor": "Trình soạn thảo mở rộng",
+  "waiting_to_upload_x": "Chờ tải lên ({{total}})"
 }
