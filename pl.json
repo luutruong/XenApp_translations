@@ -150,5 +150,7 @@
   "insert_photo": "Insert photo",
   "view_more_posts": "View more posts",
   "expanded_editor": "Expanded editor",
-  "waiting_to_upload_x": "Waiting to upload ({{total}})"
+  "waiting_to_upload_x": "Waiting to upload ({{total}})",
+  "mark_read": "Read",
+  "mark_unread": "Unread"
 }

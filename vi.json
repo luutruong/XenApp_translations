@@ -150,5 +150,7 @@
   "insert_photo": "Chèn ảnh",
   "view_more_posts": "Xem thêm bình luận",
   "expanded_editor": "Trình soạn thảo mở rộng",
-  "waiting_to_upload_x": "Chờ tải lên ({{total}})"
+  "waiting_to_upload_x": "Chờ tải lên ({{total}})",
+  "mark_read": "Đã đọc",
+  "mark_unread": "Chưa đọc"
 }

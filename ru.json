@@ -150,5 +150,7 @@
   "insert_photo": "Вставить фото",
   "view_more_posts": "Посмотреть ещё",
   "expanded_editor": "Расширенный редактор",
-  "waiting_to_upload_x": "Ожидание загрузки ({{total}})"
+  "waiting_to_upload_x": "Ожидание загрузки ({{total}})",
+  "mark_read": "Read",
+  "mark_unread": "Unread"
 }
