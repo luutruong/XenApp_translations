@@ -152,5 +152,6 @@
   "expanded_editor": "Expanded editor",
   "waiting_to_upload_x": "Waiting to upload ({{total}})",
   "mark_read": "Read",
-  "mark_unread": "Unread"
+  "mark_unread": "Unread",
+  "no_permission_to_post": "You have insufficient privileges to post threads here."
 }

@@ -152,5 +152,6 @@
   "expanded_editor": "Trình soạn thảo mở rộng",
   "waiting_to_upload_x": "Chờ tải lên ({{total}})",
   "mark_read": "Đã đọc",
-  "mark_unread": "Chưa đọc"
+  "mark_unread": "Chưa đọc",
+  "no_permission_to_post": "Bạn không có quyền tạo chủ đề ở khu vực này."
 }
