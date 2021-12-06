@@ -151,7 +151,7 @@
   "view_more_posts": "Посмотреть ещё",
   "expanded_editor": "Расширенный редактор",
   "waiting_to_upload_x": "Ожидание загрузки ({{total}})",
-  "mark_read": "Read",
-  "mark_unread": "Unread",
-  "no_permission_to_post": "You have insufficient privileges to post threads here."
+  "mark_read": "Отметить как прочитанное",
+  "mark_unread": "Отметить как непрочитанное",
+  "no_permission_to_post": "У Вас недостаточно прав, чтобы оставлять сообщения здесь."
 }
