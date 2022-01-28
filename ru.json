@@ -153,5 +153,7 @@
   "waiting_to_upload_x": "Ожидание загрузки ({{total}})",
   "mark_read": "Прочитано",
   "mark_unread": "Не прочитано",
-  "no_permission_to_post": "У Вас недостаточно прав, чтобы оставлять сообщения здесь."
+  "no_permission_to_post": "У Вас недостаточно прав, чтобы оставлять сообщения здесь.",
+  "delete_account": "Delete account",
+  "delete_account_confirm_message": "All data created by this account will be deleted. It is not recoverable."
 }

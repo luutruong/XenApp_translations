@@ -153,5 +153,7 @@
   "waiting_to_upload_x": "Waiting to upload ({{total}})",
   "mark_read": "Read",
   "mark_unread": "Unread",
-  "no_permission_to_post": "You have insufficient privileges to post threads here."
+  "no_permission_to_post": "You have insufficient privileges to post threads here.",
+  "delete_account": "Delete account",
+  "delete_account_confirm_message": "All data created by this account will be deleted. It is not recoverable."
 }
