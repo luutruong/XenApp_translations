@@ -155,5 +155,10 @@
   "mark_unread": "Chưa đọc",
   "no_permission_to_post": "Bạn không có quyền tạo chủ đề ở khu vực này.",
   "delete_account": "Xóa tài khoản",
-  "delete_account_confirm_message": "Tài khoản bị xóa sẽ không thể khôi phục được. Toàn bộ dữ liệu được tạo bởi tài khoản này sẽ bị xóa."
+  "delete_account_confirm_message": "Tài khoản bị xóa sẽ không thể khôi phục được. Toàn bộ dữ liệu được tạo bởi tài khoản này sẽ bị xóa.",
+  "change_username": "Thay đổi tên",
+  "account_details": "Chi tiết tài khoản",
+  "change_reason": "Lý do thay đổi",
+  "please_explain_the_reason_for_this_username_change": "Nhập lý do vì sao bạn muốn thay đổi tên truy cập.",
+  "save": "Lưu"
 }

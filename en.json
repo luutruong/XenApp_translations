@@ -155,5 +155,10 @@
   "mark_unread": "Unread",
   "no_permission_to_post": "You have insufficient privileges to post threads here.",
   "delete_account": "Delete account",
-  "delete_account_confirm_message": "All data created by this account will be deleted. It is not recoverable."
+  "delete_account_confirm_message": "All data created by this account will be deleted. It is not recoverable.",
+  "change_username": "Change username",
+  "account_details": "Account details",
+  "change_reason": "Change reason",
+  "please_explain_the_reason_for_this_username_change": "Please explain the reason for this username change",
+  "save": "Save"
 }

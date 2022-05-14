@@ -155,5 +155,10 @@
   "mark_unread": "Не прочитано",
   "no_permission_to_post": "У Вас недостаточно прав, чтобы оставлять сообщения здесь.",
   "delete_account": "Удалить аккаунт",
-  "delete_account_confirm_message": "Все данные, созданные этим аккаунтом, будут удалены без возможности восстановления."
+  "delete_account_confirm_message": "Все данные, созданные этим аккаунтом, будут удалены без возможности восстановления.",
+  "change_username": "Change username",
+  "account_details": "Account details",
+  "change_reason": "Change reason",
+  "please_explain_the_reason_for_this_username_change": "Please explain the reason for this username change",
+  "save": "Save"
 }
