@@ -164,5 +164,6 @@
   "thread_layout": "Bố cục bài viết",
   "appearance": "Appearance",
   "thread_layout_expanded": "Mở rộng",
-  "thread_layout_compact": "Gọn nhẹ"
+  "thread_layout_compact": "Gọn nhẹ",
+  "text_size": "Kích cỡ chữ"
 }

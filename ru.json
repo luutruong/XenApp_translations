@@ -164,5 +164,6 @@
   "thread_layout": "Thread Layout",
   "appearance": "Appearance",
   "thread_layout_expanded": "Expanded",
-  "thread_layout_compact": "Compact"
+  "thread_layout_compact": "Compact",
+  "text_size": "Text Size"
 }
