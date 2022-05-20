@@ -165,5 +165,10 @@
   "appearance": "Appearance",
   "thread_layout_expanded": "Expanded",
   "thread_layout_compact": "Compact",
-  "text_size": "Text Size"
+  "text_size": "Text Size",
+  "x_members": "{{total}} members",
+  "conversation_recipient_add": "Add",
+  "conversation_star": "Star",
+  "conversation_unstar": "Unstar",
+  "conversation_leave_short": "Leave"
 }

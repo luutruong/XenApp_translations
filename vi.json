@@ -165,5 +165,10 @@
   "appearance": "Appearance",
   "thread_layout_expanded": "Mở rộng",
   "thread_layout_compact": "Gọn nhẹ",
-  "text_size": "Kích cỡ chữ"
+  "text_size": "Kích cỡ chữ",
+  "x_members": "{{total}} thành viên",
+  "conversation_recipient_add": "Thêm",
+  "conversation_star": "Star",
+  "conversation_unstar": "Unstar",
+  "conversation_leave_short": "Rời"
 }
