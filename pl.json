@@ -171,5 +171,7 @@
   "conversation_star": "Star",
   "conversation_unstar": "Unstar",
   "conversation_leave_short": "Leave",
-  "forums": "Forums"
+  "forums": "Forums",
+  "view_deleted_content": "View deleted content",
+  "view_moderated_content": "View moderated content"
 }

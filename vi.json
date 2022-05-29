@@ -171,5 +171,7 @@
   "conversation_star": "Star",
   "conversation_unstar": "Unstar",
   "conversation_leave_short": "Rời",
-  "forums": "Diễn đàn"
+  "forums": "Diễn đàn",
+  "view_deleted_content": "Xem nội dung đã xóa",
+  "view_moderated_content": "Xem nội dung chờ duyệt"
 }
