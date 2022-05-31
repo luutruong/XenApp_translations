@@ -74,7 +74,7 @@
   "post_thread_in_forum": "Đăng bài viết trong...",
   "forum": "Diễn đàn",
   "thread_prefix": "Tiền tố",
-  "lock_thread": "Khoá chủ đề",
+  "lock_thread": "Đóng chủ đề",
   "choose_a_prefix": "Chọn tiền tố",
   "sticky_threads": "Chủ đề dính",
   "user_search": "Tìm kiếm thành viên",
@@ -175,5 +175,8 @@
   "view_deleted_content": "Xem nội dung đã xóa",
   "view_moderated_content": "Xem nội dung chờ duyệt",
   "forum_stats_discussions": "Thảo luận",
-  "forum_stats_messages": "Bài viết"
+  "forum_stats_messages": "Bài viết",
+  "stick_thread": "Dính chủ đề",
+  "unstick_thread": "Bỏ dính chủ đề",
+  "unlock_thread": "Mở chủ đề"
 }

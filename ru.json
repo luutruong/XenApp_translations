@@ -175,5 +175,8 @@
   "view_deleted_content": "View deleted content",
   "view_moderated_content": "View moderated content",
   "forum_stats_discussions": "Discussions",
-  "forum_stats_messages": "Messages"
+  "forum_stats_messages": "Messages",
+  "stick_thread": "Stick thread",
+  "unstick_thread": "Unstick thread",
+  "unlock_thread": "Unlock thread"
 }
