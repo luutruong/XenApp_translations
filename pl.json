@@ -173,5 +173,7 @@
   "conversation_leave_short": "Leave",
   "forums": "Forums",
   "view_deleted_content": "View deleted content",
-  "view_moderated_content": "View moderated content"
+  "view_moderated_content": "View moderated content",
+  "forum_stats_discussions": "Discussions",
+  "forum_stats_messages": "Messages"
 }
