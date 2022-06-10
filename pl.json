@@ -178,5 +178,6 @@
   "forum_stats_messages": "Messages",
   "stick_thread": "Stick thread",
   "unstick_thread": "Unstick thread",
-  "unlock_thread": "Unlock thread"
+  "unlock_thread": "Unlock thread",
+  "sign_in_with_google": "Sign in with Google"
 }
