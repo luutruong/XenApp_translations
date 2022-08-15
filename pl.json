@@ -65,7 +65,6 @@
   "enter_your_code": "Wprowadź swój kod",
   "enter_code_from_your_authentication_app": "Wprowadź 6 cyfrowy kod bezpieczeństwa z Twojej aplikacji do bezpiecznego logowania.",
   "this_is_name_that_will_be_shown_with_your_messages": "To jest podpis pokazywany razem z Twoimi wiadomościami. Możesz użyć dowolnej nazwy, ale nie można jej już później zmienić.",
-  "register_new_account": "Załóż nowe konto",
   "posted_by_x": "Opublikowane przez {{name}}",
   "app_version": "Wersja",
   "you_must_log_in_to_perform_this_action": "Musisz się zalogować, żeby to zrobić.",
