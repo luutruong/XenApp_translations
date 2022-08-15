@@ -182,5 +182,6 @@
   "trending_search": "Popularne wyszukiwania",
   "sign_in_with_apple": "Sign in with Apple",
   "login_with_existing_account": "Login with existing account",
-  "do_not_have_an_account": "Don't have an account?"
+  "do_not_have_an_account": "Don't have an account?",
+  "register_now": "Register now"
 }
