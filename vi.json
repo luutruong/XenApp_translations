@@ -181,5 +181,6 @@
   "sign_in_with_google": "Đăng nhập bằng Google",
   "trending_search": "Xu hướng tìm kiếm",
   "sign_in_with_apple": "Đăng nhập bằng Apple",
-  "login_with_existing_account": "Đăng nhập tài khoản"
+  "login_with_existing_account": "Đăng nhập tài khoản",
+  "do_not_have_an_account": "Chưa có tài khoản?"
 }

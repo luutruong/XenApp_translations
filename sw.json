@@ -179,5 +179,6 @@
   "unstick_thread": "Shusha posti",
   "unlock_thread": "Fungua posti",
   "sign_in_with_apple": "Sign in with Apple",
-  "login_with_existing_account": "Login with existing account"
+  "login_with_existing_account": "Login with existing account",
+  "do_not_have_an_account": "Don't have an account?"
 }
