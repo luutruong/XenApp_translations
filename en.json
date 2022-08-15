@@ -180,5 +180,6 @@
   "unlock_thread": "Unlock thread",
   "sign_in_with_google": "Sign in with Google",
   "trending_search": "Trending search",
-  "sign_in_with_apple": "Sign in with Apple"
+  "sign_in_with_apple": "Sign in with Apple",
+  "login_with_existing_account": "Login with existing account"
 }

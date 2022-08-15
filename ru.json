@@ -180,5 +180,6 @@
   "unlock_thread": "Открыть тему",
   "sign_in_with_google": "Вход с Google",
   "trending_search": "Поиск по теме",
-  "sign_in_with_apple": "Sign in with Apple"
+  "sign_in_with_apple": "Sign in with Apple",
+  "login_with_existing_account": "Login with existing account"
 }
