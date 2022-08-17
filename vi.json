@@ -185,5 +185,9 @@
   "register_now": "Đăng ký ngay",
   "new": "Mới",
   "log_in_to_x": "Đăng nhập {{name}}",
-  "continue_with_email": "Tiếp tục với Email"
+  "continue_with_email": "Tiếp tục với Email",
+  "home_tab_latest": "Bài gần đây",
+  "home_tab_newest": "Mới nhất",
+  "home_tab_most_viewed": "Xem nhiều",
+  "home_tab_most_replied": "Trả lời nhiều"
 }
