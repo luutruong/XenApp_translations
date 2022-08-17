@@ -184,5 +184,6 @@
   "do_not_have_an_account": "Chưa có tài khoản?",
   "register_now": "Đăng ký ngay",
   "new": "Mới",
-  "log_in_to_x": "Đăng nhập {{name}}"
+  "log_in_to_x": "Đăng nhập {{name}}",
+  "continue_with_email": "Tiếp tục với Email"
 }
