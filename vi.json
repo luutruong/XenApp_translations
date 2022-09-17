@@ -197,5 +197,6 @@
   "resource_top_ratings": "Top đánh giá",
   "resource_top_downloads": "Top lượt tải",
   "x_ratings": "{{total}} đánh giá",
-  "there_is_no_resources_to_display": "Không có tài nguyên nào"
+  "there_is_no_resources_to_display": "Không có tài nguyên nào",
+  "resource_latest_updates": "Cập nhật gần đây"
 }
