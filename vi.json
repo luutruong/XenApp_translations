@@ -192,5 +192,9 @@
   "thread": "Chủ đề",
   "post": "Bài viết",
   "profile_post": "Profile post",
-  "resources": "Tài nguyên"
+  "resources": "Tài nguyên",
+  "resource_latest": "Mới cập nhật",
+  "resource_top_ratings": "Top đánh giá",
+  "resource_top_downloads": "Top lượt tải",
+  "x_ratings": "{{total}} đánh giá"
 }

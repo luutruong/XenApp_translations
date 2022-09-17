@@ -190,5 +190,9 @@
   "thread": "Thread",
   "post": "Post",
   "profile_post": "Profile post",
-  "resources": "Resources"
+  "resources": "Resources",
+  "resource_latest": "Latest",
+  "resource_top_ratings": "Top ratings",
+  "resource_top_downloads": "Top downloads",
+  "x_ratings": "{{total}} ratings"
 }
