@@ -198,5 +198,7 @@
   "resource_top_downloads": "Top lượt tải",
   "x_ratings": "{{total}} đánh giá",
   "there_is_no_resources_to_display": "Không có tài nguyên nào",
-  "resource_latest_updates": "Cập nhật gần đây"
+  "discussion": "Thảo luận",
+  "resource_overview": "Tổng quan",
+  "resource_updates": "Cập nhật"
 }

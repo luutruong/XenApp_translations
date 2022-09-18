@@ -198,5 +198,7 @@
   "resource_top_downloads": "Top downloads",
   "x_ratings": "{{total}} ratings",
   "there_is_no_resources_to_display": "There is no resources to display",
-  "resource_latest_updates": "Latest updates"
+  "discussion": "Discussion",
+  "resource_overview": "Overview",
+  "resource_updates": "Updates"
 }
