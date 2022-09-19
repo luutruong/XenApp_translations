@@ -201,5 +201,6 @@
   "discussion": "Discussion",
   "resource_overview": "Overview",
   "resource_updates": "Updates",
-  "resource": "Resource"
+  "resource": "Resource",
+  "there_is_no_reviews_to_display": "There is no reviews to display"
 }
