@@ -198,5 +198,6 @@
   "there_is_no_resources_to_display": "There is no resources to display",
   "discussion": "Discussion",
   "resource_overview": "Overview",
-  "resource_updates": "Updates"
+  "resource_updates": "Updates",
+  "resource": "Resource"
 }
