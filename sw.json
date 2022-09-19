@@ -200,5 +200,7 @@
   "resource_overview": "Overview",
   "resource_updates": "Updates",
   "resource": "Resource",
-  "there_is_no_reviews_to_display": "There is no reviews to display"
+  "there_is_no_reviews_to_display": "There is no reviews to display",
+  "resource_version_x": "Version: {{version}}",
+  "resource_reviews": "Reviews"
 }
