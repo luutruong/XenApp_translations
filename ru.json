@@ -183,7 +183,7 @@
   "do_not_have_an_account": "Не учетной записи?",
   "register_now": "Зарегистрироваться",
   "new": "Новое",
-  "log_in_to_x": "Войти как {{name}}",
+  "log_in_to_x": "Войти в {{name}}",
   "continue_with_email": "Продолжить с Email",
   "home_tab_latest": "Последнее",
   "home_tab_newest": "Новые",
