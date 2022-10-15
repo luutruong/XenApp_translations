@@ -205,5 +205,6 @@
   "there_is_no_reviews_to_display": "Không có đánh giá nào.",
   "resource_version_x": "Phiên bản: {{version}}",
   "resource_reviews": "Đánh giá",
-  "there_is_no_updates_to_display": "Không có bản cập nhật nào."
+  "there_is_no_updates_to_display": "Không có bản cập nhật nào.",
+  "resource_post_an_update": "Đăng bản cập nhật"
 }

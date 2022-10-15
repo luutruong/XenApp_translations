@@ -205,5 +205,6 @@
   "there_is_no_reviews_to_display": "There is no reviews to display",
   "resource_version_x": "Version: {{version}}",
   "resource_reviews": "Reviews",
-  "there_is_no_updates_to_display": "There is no updates to display"
+  "there_is_no_updates_to_display": "There is no updates to display",
+  "resource_post_an_update": "Post an update"
 }
