@@ -133,7 +133,7 @@
 	"upload_option_photo": "Foto",
 	"upload_option_file": "Expediente",
 	"tfa_email_explain": "Se ha enviado un correo electrónico a su bandeja de entrada con un código de un solo uso. Ingrese ese código para continuar.",
-	"tfa_backup_codes_explain": "Se puede usar un código de respaldo cuando no tiene acceso a un método de verificación alternativo. Una vez que se usa un código de respaldo, ya no se podrá usar. Recibirá un correo electrónico cuando inicie sesión con un código de respaldo".
+	"tfa_backup_codes_explain": "Se puede usar un código de respaldo cuando no tiene acceso a un método de verificación alternativo. Una vez que se usa un código de respaldo, ya no se podrá usar. Recibirá un correo electrónico cuando inicie sesión con un código de respaldo",
 	"tfa_via_app": "Código de verificación a través de la aplicación",
 	"tfa_via_email_confirmation": "Confirmación de correo electrónico",
 	"tfa_via_backup_codes": "Códigos de respaldo",
