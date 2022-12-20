@@ -145,7 +145,6 @@
   "log_in_to_reply": "Zaloguj się, żeby odpowiedzieć",
   "open_links_in": "Otwórz linki w",
   "show_hidden_content_by_x": "Pokaż ukrytą treść od {{name}}",
-  "insert_photo": "Wstaw zdjęcie",
   "view_more_posts": "Zobacz więcej",
   "expanded_editor": "Powiększony edytor",
   "waiting_to_upload_x": "Czekam na załadowanie ({{total}})",
@@ -205,5 +204,8 @@
   "there_is_no_reviews_to_display": "There is no reviews to display",
   "resource_version_x": "Version: {{version}}",
   "resource_reviews": "Reviews",
-  "there_is_no_updates_to_display": "There is no updates to display"
+  "there_is_no_updates_to_display": "There is no updates to display",
+  "resource_post_an_update": "Post an update",
+  "insert_attachment": "Insert attachment",
+  "upload_option_photo_and_video": "Photo and video"
 }

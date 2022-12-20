@@ -145,7 +145,6 @@
   "log_in_to_reply": "Войдите, чтобы ответить",
   "open_links_in": "Открывать ссылки в",
   "show_hidden_content_by_x": "Показать скрытый контент {{name}}",
-  "insert_photo": "Вставить фото",
   "view_more_posts": "Посмотреть ещё",
   "expanded_editor": "Расширенный редактор",
   "waiting_to_upload_x": "Ожидание загрузки ({{total}})",
@@ -205,5 +204,8 @@
   "there_is_no_reviews_to_display": "Нет отзывов",
   "resource_version_x": "Версия: {{version}}",
   "resource_reviews": "Отзывы",
-  "there_is_no_updates_to_display": "Нет обновлений"
+  "there_is_no_updates_to_display": "Нет обновлений",
+  "resource_post_an_update": "Post an update",
+  "insert_attachment": "Insert attachment",
+  "upload_option_photo_and_video": "Photo and video"
 }
