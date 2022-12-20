@@ -205,7 +205,7 @@
   "resource_version_x": "Версия: {{version}}",
   "resource_reviews": "Отзывы",
   "there_is_no_updates_to_display": "Нет обновлений",
-  "resource_post_an_update": "Post an update",
-  "insert_attachment": "Insert attachment",
-  "upload_option_photo_and_video": "Photo and video"
+  "resource_post_an_update": "Опубликовать обновление",
+  "insert_attachment": "Вставить вложение",
+  "upload_option_photo_and_video": "Фото и видео"
 }
