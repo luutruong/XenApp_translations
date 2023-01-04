@@ -211,5 +211,8 @@
   "account_upgrades": "Account upgrades",
   "restore_purchase": "Restore purchase",
   "forgot_your_password": "Forgot your password?",
-  "subscribed": "Subscribed"
+  "subscribed": "Subscribed",
+  "week": "Week",
+  "month": "Month",
+  "year": "Year"
 }

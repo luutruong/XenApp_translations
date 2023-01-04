@@ -211,5 +211,8 @@
   "account_upgrades": "Nâng cấp tài khoản",
   "restore_purchase": "Khôi phục thanh toán",
   "forgot_your_password": "Quên mật khẩu?",
-  "subscribed": "Đã đăng ký"
+  "subscribed": "Đã đăng ký",
+  "week": "Tuần",
+  "month": "Tháng",
+  "year": "Năm"
 }
