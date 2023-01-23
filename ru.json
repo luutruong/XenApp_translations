@@ -208,12 +208,12 @@
   "resource_post_an_update": "Опубликовать обновление",
   "insert_attachment": "Вставить вложение",
   "upload_option_photo_and_video": "Фото и видео",
-  "account_upgrades": "Account upgrades",
-  "restore_purchase": "Restore purchase",
-  "forgot_your_password": "Forgot your password?",
-  "subscribed": "Subscribed",
-  "unit_day": "Day",
-  "unit_week": "Week",
-  "unit_month": "Month",
-  "unit_year": "Year"
+  "account_upgrades": "Платное повышение",
+  "restore_purchase": "Восстановить покупки",
+  "forgot_your_password": "Забыли свой пароль?",
+  "subscribed": "Подписки",
+  "unit_day": "День",
+  "unit_week": "Неделя",
+  "unit_month": "Месяц",
+  "unit_year": "Год"
 }
